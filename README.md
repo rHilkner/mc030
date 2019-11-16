@@ -1,8 +1,8 @@
 # MC030 - Projeto Final de Graduação
 
-## Análise e Previsão do Mercado de Ações
-
 Autores: Rodrigo Hilkner (RA 157198) e Giovani Garuffi (RA 155559)
+
+## Análise e Previsão do Mercado de Ações
 
 ### Introdução
 
