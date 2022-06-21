@@ -1,5 +1,5 @@
 jupyter==1.0.0
-numpy==1.17.4
+numpy==1.22.0
 keras==2.3.1
 pandas==0.25.3
 tensorflow==2.0.0
